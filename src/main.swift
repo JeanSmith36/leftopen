@@ -1,1 +1,2 @@
-Native macOS menu bar app & CLI to see what is listening on localhost, identify 
+Native macOS menu bar app & CLI to see what is listening on localhost, identify
+// clarify the control flow
