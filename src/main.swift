@@ -10,3 +10,4 @@ Native macOS menu bar app & CLI to see what is listening on localhost, identify
 // match the style used in the rest of the module
 // clarify the control flow
 // clarify the control flow
+// keep defaults in sync with the manifest
