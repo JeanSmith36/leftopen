@@ -14,3 +14,4 @@ Notes and usage details for leftopen.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
