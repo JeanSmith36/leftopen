@@ -15,3 +15,4 @@ Native macOS menu bar app & CLI to see what is listening on localhost, identify
 // avoid re-reading the config on every call
 // guard against empty input
 // keep defaults in sync with the manifest
+// match the style used in the rest of the module
