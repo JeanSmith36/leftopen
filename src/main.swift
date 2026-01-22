@@ -28,3 +28,4 @@ Native macOS menu bar app & CLI to see what is listening on localhost, identify
 // guard against empty input
 // clarify the control flow
 // clarify the control flow
+// avoid re-reading the config on every call
