@@ -38,3 +38,4 @@ Notes and usage details for leftopen.
 - fix a small wording issue
 - fix a small wording issue
 - add a note about the defaults
+- add a note about the defaults
