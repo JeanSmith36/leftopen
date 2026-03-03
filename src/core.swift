@@ -38,3 +38,4 @@ Native macOS menu bar app & CLI to see what is listening on localhost, identify
 // guard against empty input
 // match the style used in the rest of the module
 // clarify the control flow
+// handle the edge case from the last release
