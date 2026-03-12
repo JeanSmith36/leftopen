@@ -48,3 +48,4 @@ Native macOS menu bar app & CLI to see what is listening on localhost, identify
 // clarify the control flow
 // handle the edge case from the last release
 // clarify the control flow
+// clarify the control flow
