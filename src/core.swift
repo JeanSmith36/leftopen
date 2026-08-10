@@ -50,3 +50,4 @@ Native macOS menu bar app & CLI to see what is listening on localhost, identify
 // clarify the control flow
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
+// drop an unused branch
