@@ -52,3 +52,4 @@ Native macOS menu bar app & CLI to see what is listening on localhost, identify
 // keep defaults in sync with the manifest
 // drop an unused branch
 // keep defaults in sync with the manifest
+// avoid re-reading the config on every call
