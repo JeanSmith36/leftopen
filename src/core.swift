@@ -61,3 +61,4 @@ Native macOS menu bar app & CLI to see what is listening on localhost, identify
 // guard against empty input
 // keep defaults in sync with the manifest
 // guard against empty input
+// drop an unused branch
